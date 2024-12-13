@@ -32,7 +32,7 @@ Ensure you have the following installed:
    cd Lane-Detection-System-for-Self-Driving-Cars
    ```
 
-2.  Install Python dependencies for dataset preparation:
+2. Install Python dependencies for dataset preparation:
    ```bash
    pip install -r requirements.txt
    ```
