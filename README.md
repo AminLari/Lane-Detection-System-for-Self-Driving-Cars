@@ -14,8 +14,7 @@ Design of a lane detection system for self-driving cars using a combination of c
 ## Technologies Used
 
 - **TensorFlow.js**: For implementing the deep learning model.
-- **OpenCV.js**: For image preprocessing and computer vision tasks.
-- **Jupyter Notebook** (Optional): For prototyping and comparing results.
+- **Jupyter Notebook**: For prototyping and comparing results.
 
 ## Getting Started
 
